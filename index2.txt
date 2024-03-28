@@ -1,0 +1,520 @@
+﻿<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>慈养堂同仁双宝,南京同仁堂双宝金丹,同仁双宝金力金-慈养堂官网</title>
+<meta name="description" content="本站为深圳慈养堂健康工程有限公司官方网站,慈养堂双宝金力金,同仁双宝,南京同仁堂双宝金丹是深圳慈养堂健康工程旗下大健康品牌，慈养堂官方服务热线400-696-1019">
+<meta name="keywords" content="慈养堂,同仁双宝,双宝金丹,同仁双宝金力金">		
+	
+	<meta name="applicable-device" content="pc,mobile">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link rel="stylesheet" href="css/swiper.css">
+		<link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" type="text/css" href="http://at.alicdn.com/t/font_579203_arjompenbrlwstt9.css"/>
+		<link rel="stylesheet" type="text/css" href="css/reset.css" />
+        <link rel="stylesheet" type="text/css" href="css/public_hf.css" />
+        <link rel="stylesheet" href="css/lf_workcase.css">
+        <link rel="stylesheet" href="css/h_case.css">
+        <link rel="stylesheet" type="text/css" href="css/me_index.css" />
+		
+	</head>  
+
+	<body>
+	
+    <script src="js/top.js" type="text/javascript" charset="utf-8"></script>
+   
+    
+    <div class="swiper-container IndexBanner w100">
+        <div class="swiper-wrapper">
+           
+            
+            <div class="swiper-slide" data-swiper-autoplay="4000" style="background-image:url(image/banner1.jpg);">
+            	<div class="mobilbanner" style="background-image:url(image/banner1_1.jpg);"></div>
+                <div class="mobilbannerbg"></div>
+            	<div class="swiper_txt_">
+                    <p class="swiper_txt_1 ">创新　品质　服务</p>
+                    <p class="swiper_txt_2 ">LOOKING TO THE FURTURE<br/>WHILE LEADING THE WAY</p>
+                    <a class="Pubobtn swiper_txt_4 "><span class="Pubobtn-bg"></span><span class="Pubobtn-txt">了解更多</span></a>
+                    
+                </div>
+            </div>
+            
+            <div class="swiper-slide" data-swiper-autoplay="4000" style="background-image:url(image/banner2.jpg);">
+            	<div class="mobilbanner" style="background-image:url(image/banner2_1.jpg);"></div>
+                <div class="mobilbannerbg"></div>
+            	<div class="swiper_txt_">
+                    <p class="swiper_txt_1 ">放眼未来　引领开拓</p>
+                    <p class="swiper_txt_2 ">LOOKING TO THE FURTURE<br/>WHILE LEADING THE WAY</p>
+                    <a class="Pubobtn swiper_txt_4 "><span class="Pubobtn-bg"></span><span class="Pubobtn-txt">了解更多</span></a>
+                    
+                </div>
+            </div>
+            
+            
+            
+        </div>
+        <div class="swiper-pagination"></div>
+        
+    </div>
+    
+    <div id="shubiao"><span></span><div class="shubiaowz">向下滑动</div></div>
+    
+    <div class="FourList w100">
+		<a class="Fourm Fourmlast wow fadeInUp delay_4s" href="jlj.html">
+        	<div class="Fourmt">
+            	<div class="FourBg"></div>
+                <div class="Fourmtxt">
+                	<p class="Fourmtxtp1">01</p>
+                	<p class="Fourmtxtp2">同仁双宝金力金</p>
+                    <i class="changjiantou"></i>
+                </div>
+                <img class="Fourimg" src="temp/jij2.jpg"/>
+            </div>
+        </a>
+    	<a class="Fourm wow fadeInUp delay_1s" href="qsj.html">
+        	<div class="Fourmt">
+            	<div class="FourBg"></div>
+                <div class="Fourmtxt">
+                	<p class="Fourmtxtp1">02</p>
+                	<p class="Fourmtxtp2">强肾灸</p>
+                    <i class="changjiantou"></i>
+                </div>
+                <img class="Fourimg" src="temp/qsj.jpg"/>
+            </div>
+        </a>
+        <a class="Fourm wow fadeInUp delay_2s" href="trsb.html">
+        	<div class="Fourmt">
+            	<div class="FourBg"></div>
+                <div class="Fourmtxt">
+                	<p class="Fourmtxtp1">03</p>
+                	<p class="Fourmtxtp2">同仁双宝</p>
+                    <i class="changjiantou"></i>
+                </div>
+                <img class="Fourimg" src="temp/fourlist2.jpg"/>
+            </div>
+        </a>
+        <a class="Fourm wow fadeInUp delay_3s" href="sbjd.html">
+        	<div class="Fourmt">
+            	<div class="FourBg"></div>
+                <div class="Fourmtxt">
+                	<p class="Fourmtxtp1">04</p>
+                	<p class="Fourmtxtp2">同仁双宝金丹</p>
+                    <i class="changjiantou"></i>
+                </div>
+                <img class="Fourimg" src="temp/fourlist3.jpg"/>
+            </div>
+        </a>
+ 
+		<a class="Fourm Fourmlast wow fadeInUp delay_4s" href="xmdg.html">
+        	<div class="Fourmt">
+            	<div class="FourBg"></div>
+                <div class="Fourmtxt">
+                	<p class="Fourmtxtp1">05</p>
+                	<p class="Fourmtxtp2">相模劲能修护膏</p>
+                    <i class="changjiantou"></i>
+                </div>
+                <img class="Fourimg" src="temp/xmdg.jpg"/>
+            </div>
+        </a>
+	    <a class="Fourm Fourmlast wow fadeInUp delay_4s" href="xmpj.html">
+        	<div class="Fourmt">
+            	<div class="FourBg"></div>
+                <div class="Fourmtxt">
+                	<p class="Fourmtxtp1">06</p>                	
+					<p class="Fourmtxtp2">相模抑菌喷剂</p>
+                    <i class="changjiantou"></i>
+                </div>
+                <img class="Fourimg" src="temp/xmpj.jpg"/>
+            </div>
+        </a>
+		<a class="Fourm Fourmlast wow fadeInUp delay_4s" href="">
+        	<div class="Fourmt">
+            	<div class="FourBg"></div>
+                <div class="Fourmtxt">
+                	<!--<p class="Fourmtxtp1">06</p>
+                	<p class="Fourmtxtp2">红豆薏米茶</p>-->
+                   <!-- <i class="changjiantou"></i>-->
+                </div>
+                <img class="Fourimg" src="temp/M.jpg"/>
+            </div>
+        </a>
+	   <a class="Fourm Fourmlast wow fadeInUp delay_4s" href="hdymc.html">
+        	<div class="Fourmt">
+            	<div class="FourBg"></div>
+                <div class="Fourmtxt">
+                	<p class="Fourmtxtp1">07</p>
+                	<p class="Fourmtxtp2">红豆薏米茶</p>
+                    <i class="changjiantou"></i>
+                </div>
+                <img class="Fourimg" src="temp/hdymc.jpg"/>
+            </div>
+        </a>
+		 <a class="Fourm Fourmlast wow fadeInUp delay_4s" href="">
+        	<div class="Fourmt">
+            	<div class="FourBg"></div>
+                <div class="Fourmtxt">
+                	<!--<p class="Fourmtxtp1">06</p>
+                	<p class="Fourmtxtp2">红豆薏米茶</p>-->
+                   <!-- <i class="changjiantou"></i>-->
+                </div>
+                <img class="Fourimg" src="temp/M.jpg"/>
+            </div>
+        </a>
+    </div>
+    
+    
+    
+    <div class="w100 fdmaina">
+    	<div class="fdmainabgzj">
+            <div class="w1200 fdmainatxt">
+                <div class="fdmainal fl">
+                	<div class=" wow fadeInUp">
+                        <p class="fdmainalp1">WHO WE ARE<i></i></p>
+                        <p class="fdmainalp2">慈养堂</p>
+                    </div>
+                    <div class="fdmainalp3 wow fadeInUp delay_2s"><p>慈：慈者，助人之心<br/>
+养：养者，对己对他人养护<br/>
+堂：堂既是家，家既是国之缩影<br/></p>
+
+<br/>
+<p>以利他之慈爱之心，以慈养堂大健康之名，<br/>
+守护每个中国人的生命健康质量。</p>
+</div>
+                </div>
+                <div class="fdmainar wow fadeInUp delay_4s">
+                    <p class="fdmainarp">OUR VALUES</p>
+                    
+                    <div class="pub-table fdmainavalue">
+                        <div class="pub-cell fdmainavaluea">
+                            <img src="image/values2.png"/>
+                        </div>
+                        <div class="pub-cell fdmainavalueb"><span>Innovation</span><i>创 新</i></div>
+                    </div>
+                    
+                    <div class="pub-table fdmainavalue">
+                        <div class="pub-cell fdmainavaluea">
+                            <img src="image/values1.png"/>
+                        </div>
+                        <div class="pub-cell fdmainavalueb"><span>Quality</span><i>品 质</i></div>
+                    </div>
+                    
+                    <div class="pub-table fdmainavalue">
+                        <div class="pub-cell fdmainavaluea">
+                            <img src="image/values3.png"/>
+                        </div>
+                        <div class="pub-cell fdmainavalueb"><span>Service</span><i>服 务</i></div>
+                    </div>
+                </div>
+                <div class="clearboth"></div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="Phide">
+    	<p class="fdmainclp1 wow fadeInUp">CASE</p>
+    	<p class="fdmainclp2 wow fadeInUp delay_2s">产品案例</p>
+    </div>
+    
+    <div class="w100 fdmainb">
+    	<div class="swiper-container fdmainbslider  wow fadeInUp">
+        	<div class="swiper-pagination"></div>
+        	<div class="swiper-wrapper">
+        		 <div class="swiper-slide">
+                	<div class="fdmainbimg swiper-img" style=" background-image:url(temp/jlj.jpg);"></div>
+                    <img class="fdmainbpimg" src="temp/jlj.jpg"/>
+<!--                    <a class="fdmainbtxt wow fadeInLeft delay_2s" href="http://www.ciyangtang.net/qsj.html">
+                    	<div class="fdmainbtxtp1">
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品名称：</div><div class="fdmainbtxtmmb fr">强肾灸</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品规格：</div><div class="fdmainbtxtmmb fr">6贴/盒</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">生产地址：</div><div class="fdmainbtxtmmb fr">江夏区</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">作用功能：</div><div class="fdmainbtxtmmb fr">详情看说明书</div></div>
+                    	</div>
+                        <i class="changjiantou1"></i>
+                    </a>-->
+                </div>
+                <div class="swiper-slide">
+                	<div class="fdmainbimg swiper-img" style=" background-image:url(temp/qs000.jpg);"></div>
+                    <img class="fdmainbpimg" src="temp/qs000.jpg"/>
+<!--                    <a class="fdmainbtxt wow fadeInLeft delay_2s" href="http://www.ciyangtang.net/trsb.html">
+                    	<div class="fdmainbtxtp1">
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品名称：</div><div class="fdmainbtxtmmb fr">同仁双宝</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品规格：</div><div class="fdmainbtxtmmb fr">36粒装</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">生产地址：</div><div class="fdmainbtxtmmb fr">贵州省</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">作用功能：</div><div class="fdmainbtxtmmb fr">免疫调节</div></div>
+                    	</div>
+                        <i class="changjiantou1"></i>
+                    </a>-->
+                </div>
+            	<div class="swiper-slide">
+                	<div class="fdmainbimg swiper-img" style=" background-image:url(temp/trsb000.jpg);"></div>
+                    <img class="fdmainbpimg" src="temp/trsb000.jpg"/>
+<!--                    <a class="fdmainbtxt wow fadeInLeft delay_2s " href="http://www.ciyangtang.net/sbjd.html">
+                    	<div class="fdmainbtxtp1">
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品名称：</div><div class="fdmainbtxtmmb fr">同仁双宝金丹</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品规格：</div><div class="fdmainbtxtmmb fr">6瓶装</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">生产地址：</div><div class="fdmainbtxtmmb fr">江西省</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">作用功能：</div><div class="fdmainbtxtmmb fr">增强免疫力 缓解体力疲劳</div></div>
+                    	</div>
+                    	<i class="changjiantou1"></i>
+                    </a>-->
+                </div>
+				<div class="swiper-slide">
+                	<div class="fdmainbimg swiper-img" style=" background-image:url(temp/jd333.jpg);"></div>
+                    <img class="fdmainbpimg" src="temp/jd333.jpg"/>
+<!--                    <a class="fdmainbtxt wow fadeInLeft delay_2s " href="http://www.ciyangtang.net/sbjd.html">
+                    	<div class="fdmainbtxtp1">
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品名称：</div><div class="fdmainbtxtmmb fr">同仁双宝金丹</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品规格：</div><div class="fdmainbtxtmmb fr">6瓶装</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">生产地址：</div><div class="fdmainbtxtmmb fr">江西省</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">作用功能：</div><div class="fdmainbtxtmmb fr">增强免疫力 缓解体力疲劳</div></div>
+                    	</div>
+                    	<i class="changjiantou1"></i>
+                    </a>-->
+                </div>
+                               
+                <div class="swiper-slide">
+                	<div class="fdmainbimg swiper-img" style=" background-image:url(temp/xm444.jpg);"></div>
+                    <img class="fdmainbpimg" src="temp/xm444.jpg"/>
+<!--                    <a class="fdmainbtxt wow fadeInLeft delay_2s" href="http://www.ciyangtang.net/xmdg.html">
+                    	<div class="fdmainbtxtp1">
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品名称：</div><div class="fdmainbtxtmmb fr">劲能修护膏</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品规格：</div><div class="fdmainbtxtmmb fr">60克/瓶</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">生产地址：</div><div class="fdmainbtxtmmb fr">广州市</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">作用功能：</div><div class="fdmainbtxtmmb fr">护理肌肤 滋润肌肤</div></div>
+                    	</div>
+                        <i class="changjiantou1"></i>
+                    </a>-->
+                </div>
+                <div class="swiper-slide">
+                	<div class="fdmainbimg swiper-img" style=" background-image:url(temp/pj555.jpg);"></div>
+                    <img class="fdmainbpimg" src="temp/pj555.jpg"/>
+<!--                    <a class="fdmainbtxt wow fadeInLeft delay_2s" href="http://www.ciyangtang.net/xmpj.html">
+                    	<div class="fdmainbtxtp1">
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品名称：</div><div class="fdmainbtxtmmb fr">相模®抑菌喷剂</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品规格：</div><div class="fdmainbtxtmmb fr">6ml/瓶</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">生产地址：</div><div class="fdmainbtxtmmb fr">广州市</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">作用功能：</div><div class="fdmainbtxtmmb fr">抑菌杀菌</div></div>
+                    	</div>
+                        <i class="changjiantou1"></i>
+                    </a>-->
+                </div>
+                <div class="swiper-slide">
+                	<div class="fdmainbimg swiper-img" style=" background-image:url(pjt/hdymc-1.jpg);"></div>
+                    <img class="fdmainbpimg" src="pjt/hdymc-1.jpg"/>
+<!--                    <a class="fdmainbtxt wow fadeInLeft delay_2s" href="http://www.ciyangtang.net/xmpj.html">
+                    	<div class="fdmainbtxtp1">
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品名称：</div><div class="fdmainbtxtmmb fr">红豆薏米茶</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">产品规格：</div><div class="fdmainbtxtmmb fr">150g/袋</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">生产地址：</div><div class="fdmainbtxtmmb fr">安徽毫州</div></div>
+                        	<div class="fdmainbtxtmm"><div class="fdmainbtxtmma fl">作用功能：</div><div class="fdmainbtxtmmb fr">代用茶</div></div>
+                    	</div>
+                        <i class="changjiantou1"></i>
+                    </a>-->
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+<!--    <div class="w1200 fdmainc">
+    	<div class="fl fdmaincl ">
+        	<p class="fdmainclp1 wow fadeInUp">NEWS & MEDIA</p>
+            <p class="fdmainclp2 wow fadeInUp delay_2s">慈养堂动态</p>
+            <div class=" wow fadeInUp delay_4s flip-container">
+                <div class="fdmainclp3"><img class="img1" src="temp/fdmaincimg.png"/></div>
+                <p class="fdmainclp4">2018.06.27</p>
+               
+                <i class="changjiantou2">中国·郑州</i>
+                <div class="fdmainclp5">军魂复制营暨聚力重大战略发布</div>
+            </div>
+        </div>
+        <div class="fr fdmaincr wow fadeInUp delay_6s">
+        	<div class="fdmaincrtit">NEWS CENTER</div>
+            <a href="gsdt-x1.html" class="pub-table fdmaincra">
+            	<div class="pub-cell fdmaincrp">
+                	<p class="fdmaincrp1">2018.06.30</p>
+                    <p class="fdmaincrp2 text-1">新征程 | 聚力2018战略发布会圆满落幕！！</p>
+                </div>
+            </a>
+            <a href="gsdt-t1.html" class="pub-table fdmaincra">
+            	<div class="pub-cell fdmaincrp">
+                	<p class="fdmaincrp1">2018.06.28</p>
+                    <p class="fdmaincrp2 text-1">蜕变之旅 | 聚力国际军魂复制营第1期圆满收官!</p>
+                </div>
+            </a>
+            <a class="pub-table fdmaincra" href="gsdt-j1.html">
+            	<div class="pub-cell fdmaincrp">
+                	<p class="fdmaincrp1">2018.05.30</p>
+                    <p class="fdmaincrp2 text-1">聚力大学 | 颁奖典礼现场直播，万人观看！新兵孵化基地完美落幕！</p>
+                </div>
+            </a>
+            <a class="pub-table fdmaincra" href="gsdt-z1.html">
+            	<div class="pub-cell fdmaincrp">
+                	<p class="fdmaincrp1">2018.01.27</p>
+                    <p class="fdmaincrp2 text-1">这一次，火爆全网！中国大健康产业高峰论坛霸屏了！</p>
+                </div>
+            </a>
+            <div class="fdmaincrmore"><a href="gsdt.html">MORE</a></div>
+        </div>
+        <div class="clearboth"></div>
+    </div>-->
+    
+    
+    
+    
+    
+    
+    <div class="fdmaincd w100" >
+    <p class="fdmaincdtit wow fadeInUp delay_1s"><span>OUR CLIENTS</span><i>媒体支持</i></p>
+	<div class=" w1200 fdmaincdtxt wow fadeInUp delay_3s">
+    
+    	<div class="swiper-container logocontainer">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.1.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.2.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.3.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.4.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.5.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.6.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.7.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.8.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.32.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.11.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.13.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.14.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.15.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.16.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.17.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.18.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.19.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.20.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.21.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.22.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.23.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.24.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.25.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.26.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.27.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.28.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.29.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.30.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.31.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.37.jpg"></div></div>
+              
+              
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.33.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.34.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.35.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.36.jpg"></div></div>
+              
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.9.jpg"></div></div>
+              <div class="swiper-slide"><div class="Imga"><img class="cimg1" src="c/1.38.jpg"></div></div>
+                  
+              </div>
+            </div>
+            
+            <div class="swiper-pagination"></div>
+            
+          </div>
+  
+    	
+    </div>
+    
+
+    
+    
+     <script src="js/youche.js" type="text/javascript" charset="utf-8"></script>
+        
+
+    
+
+    
+
+   <script src="js/foot.js" type="text/javascript" charset="utf-8"></script>
+    
+    
+    
+    
+    
+    
+    
+    <div class="XialadU t">
+        <div class="XialadUgb iconfont icon-guanbi"></div>
+        <div class="w1300">
+            <div class="sousuo_1">
+                <div class="inp_1">
+                    <span id="suggestion_text">Search  Here  ...</span>
+                    <span class="typed-cursor">|</span>
+                </div>
+                <img class="s_left" src="image/sou.png">
+                <input class="inp" name="" id="" value="" type="">
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <div class="laugechoce ">
+        <ul>
+            
+            <li class="li1"><a href="#" class="xuanzhec">EN</a></li>
+            <li class="li2 on"><a href="#" class="xuanzhec">中文简体</a></li>
+            <li class="gbd"><a href="#" class="xuanzheclose iconfont icon-guanbi1"></a></li>
+        </ul>
+    </div>
+    
+    
+    <script src="js/m_foot.js" type="text/javascript" charset="utf-8"></script>
+
+    
+   
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?063ea5cc1fbc19fbda0eb4d4c41426e5";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+	<script src="js/jquery-1.8.2.min.js"></script>
+	<script src="js/swiper.jquery.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/swiper.animate.min.js"></script>
+    <script src="js/tweenmax.min.js"></script>
+    <script src="js/shicha.js"></script>
+    <script src="js/my_public.js"></script>
+    <script src="js/h_case.js"></script>
+	<script src="js/index821.js"></script>
+	<script>
+		
+		function IsPC()  
+	{  
+		var userAgentInfo = navigator.userAgent;  
+		var Agents = new Array("Android", "iPhone", "SymbianOS", "Windows Phone", "iPad", "iPod");  
+		var flag = true;  
+		for (var v = 0; v < Agents.length; v++) {  
+			if (userAgentInfo.indexOf(Agents[v]) > 0) { flag = false; break; }  
+		}  
+		return flag;  
+	}    
+	
+	if(IsPC()){
+		
+		
+		
+		
+	}
+	else{
+		
+	}
+	</script>
+   	</body>
+
+</html>
